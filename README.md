@@ -1,4 +1,5 @@
-eve_corphub
+EVE Corp Hub
 ===========
-
-EVE Corp Hub (kb, ts, api-key, ...)
+features(planned):
+* use api-key for reg, auth, log-in teamspeak server (ts for members and allies)
+* kill-board
